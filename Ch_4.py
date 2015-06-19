@@ -21,9 +21,12 @@ def findNothing(current):
 
 findNothing('12345')
 
-# Result:               'Yes. Devide by two and keep going.'
-# Current 'nothing':    16044
+# Result:
+#   Yes. Devide by two and keep going.
+# Current 'nothing':
+#   16044
 
 findNothing('8022')
 
-# Result:               'peak.html'
+# Result:
+#   peak.html
