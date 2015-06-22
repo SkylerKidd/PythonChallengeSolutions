@@ -1,5 +1,5 @@
 # Python Challenge
-# Solution to challenge 3
+# Solution to challenge 4
 
 import urllib.request as ur
 
