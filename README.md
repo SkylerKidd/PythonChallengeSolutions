@@ -10,7 +10,14 @@ The general format of each problem is to create a script to process a provided s
 
 ### Challenge 0
 
+This first one is simply an introduction to the format of answering the puzzle.
 
+The puzzle is a picture of **2<sup>38</sup>**. We can quickly solve for this in Python with:
+```
+2**38
+```
+
+Replacing the **0** in the url with the result (**274877906944**) gets us to the next challenge.
 
 ### Challenge 1
 
