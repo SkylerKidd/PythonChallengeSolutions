@@ -10,6 +10,8 @@ The general format of each problem is to create a script to process a provided s
 
 ### Challenge 0
 
+
+
 ### Challenge 1
 
 ### Challenge 2
